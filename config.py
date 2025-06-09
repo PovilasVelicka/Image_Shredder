@@ -1,0 +1,11 @@
+
+# Slicing parameters
+SLICE_WIDTH = 16
+H_SLICE_COUNT = 2
+V_SLICE_COUNT = 2
+SPACE_AROUND_IMAGE = 20
+BORDER_COLOR = (255, 150, 12)
+BORDER_WIDTH = 20
+
+SOURCE_PATH = 'example.png'
+DESTINATION_PATH = 'result.png'
